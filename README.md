@@ -1,5 +1,5 @@
 # T20-Cricket-Best11
-## Project Objective:
+## Project Objective
 To identify and analyze the best playing XI for T20 cricket based on performance metrics such as batting average, strike rate, bowling average, economy rate, and boundary percentage using Excel, Power BI, and DAX.
 
 ## Project Description
